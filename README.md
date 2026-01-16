@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditi Bharti
-- 👀 I’m interested in singing and coding.
-- 🌱 I’m currently learning different programming language.
-- 📫 How to reach me my email ID aditibharti733@gmail.com and LinkedIn profile:- https://www.linkedin.com/in/aditi-bharti-b94956215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 👀 I’m interested in Backend (.NET) and AI development.
+- 🌱 I’m currently learning different programming language also LLM.
+- 📫 How to reach me my email ID aditibharti733@gmail.com and LinkedIn profile:- https://www.linkedin.com/in/aditi-bharti-b94956215
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: There is no place like 127.0.0.1_
 
